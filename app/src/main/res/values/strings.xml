@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="countryList">List of Countries</string>
+    <string name="totalCaseByDate">Total Cases By Date</string>
+    <string name="totalCaseTillToday">Total Cases Till Today</string>
+    <string name="noResultFound">No Result Found</string>
+</resources>
